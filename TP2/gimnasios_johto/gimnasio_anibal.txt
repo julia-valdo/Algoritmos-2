@@ -1,0 +1,14 @@
+G;Gimnasio_Pokemon_de_Ciudad_Orquidea; 5; 5
+L;Anibal
+P;Primeape; 3; 207; 138
+P;Poliwrath; 2; 182; 184
+E;Dioni
+P;Primeape; 3; 207; 138
+P;Mankey; 4; 148; 82
+E;Natal
+P;Machop; 4; 137; 82
+P;Machoke; 2; 177; 125
+E;Lao
+P;Hitmonchan; 3; 193; 197
+E;Yoshi
+P;Hitmonlee; 3; 224; 181

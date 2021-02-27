@@ -1,0 +1,14 @@
+Squirtle;43;9;azul
+Politoed;70;33;verde
+Slowking;30;79;rosa
+Seaking;68;39;rojo
+Gorebyss;52;22;rosa
+Shellos;34;6;morado
+Octillery;45;28;rojo
+Magikarp;98;18;verde
+Prinplup;50;23;azul
+Slowpoke;15;36;rosa
+Kingler;75;60;rojo
+Totodile;43;10;azul
+Piplup;55;78;azul
+Horsea;60;8;azul

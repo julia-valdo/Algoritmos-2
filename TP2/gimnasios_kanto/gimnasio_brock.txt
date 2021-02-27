@@ -1,0 +1,15 @@
+G;Gimnasio_Pokemon_de_Ciudad_Plateada; 1; 1
+L;Brock
+P;Golem; 2; 211; 198
+P;Kabutops; 5; 220; 203
+P;Relicanth; 3; 162; 234
+P;Onix; 4; 85; 232
+P;Omastar; 3; 207; 227
+E;Belino
+P;Golem; 2; 211; 198
+E;Jordan
+P;Rhydon; 2; 222; 171
+P;Sandslash; 3; 182; 175
+E;Angelito
+P;Geodude; 2; 132; 132
+P;Sandshrew; 4; 126; 120

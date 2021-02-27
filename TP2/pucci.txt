@@ -1,0 +1,12 @@
+E;Pucci
+P;Pikachu;700;300;300
+P;Butterfree;700;300;300
+P;Pidgeotto;700;300;300
+P;Bulbasaur;700;300;300
+P;Charmander;700;300;300
+P;Squirtle;700;300;300
+P;Krabby;20;30;20
+P;Raticate;30;50;20
+P;Haunter;40;60;20
+P;Primeape;50;60;30
+P;Muk;20;40;60

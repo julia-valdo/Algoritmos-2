@@ -1,0 +1,29 @@
+G;Gimnasio_Pokemon_de_Ciudad_Fucsia; 4; 4
+L;Koga
+P;Koffing; 2; 174; 197
+P;Weezing; 2; 174; 197
+P;Crobat; 5; 194; 178
+P;Ariados; 4; 161; 128
+P;Venomoth; 3; 179; 143
+P;Toxicroak; 4; 211; 133
+E;Alicia
+P;Gloom; 4; 153; 136
+P;Vileplume; 2; 202; 167
+P;Arbok; 4; 167; 153
+E;Benito
+P;Nidoking; 3; 204; 156
+E;Cindy
+P;Nidoqueen; 3; 180; 173
+E;Linda
+P;Bulbasaur; 3; 118; 111
+P;Ivysaur; 2; 151; 143
+P;Venusaur; 2; 198; 189
+E;Isma
+P;Drowzee; 2; 89; 136
+P;Hypno; 3; 144; 193
+E;Pedro
+P;Sandslash; 3; 182; 175
+P;Arbok; 4; 167; 153
+E;Angel
+P;Drowzee; 2; 89; 136
+P;Kadabra; 4; 232; 117

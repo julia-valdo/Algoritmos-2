@@ -1,0 +1,65 @@
+G;Gimnasio_Pokemon_de_Ciudad_Malva; 1; 1
+L;Pegaso
+P;Pidgey; 5; 85; 73
+P;Pidgeotto; 4; 117; 105
+E;Rony
+P;Pidgey; 5; 85; 73
+E;Abel
+P;Spearow; 5; 112; 60
+G;Gimnasio_Pokemon_de_Ciudad_Azalea; 2; 2
+L;Anton
+P;Scyther; 4; 218; 170
+P;Metapod; 3; 45; 80
+P;Kakuna; 3; 46; 75
+E;Kai
+P;Paras; 5; 121; 99
+E;Tino
+P;Weedle; 3; 63; 50
+P;Beedrill; 4; 169; 130
+P;Kakuna; 3; 46; 75
+E;Suso
+P;Caterpie; 3; 55; 55
+P;Weedle; 3; 63; 50
+G;Gimnasio_Pokemon_de_Ciudad_Azalea; 3; 3
+L;Blanca
+P;Clefairy; 5; 107; 108
+P;Miltank; 3; 158; 211
+E;Paloma
+P;Jigglypuff; 5; 80; 41
+E;Adela
+P;Snubbull; 3; 137; 89
+E;Samanta
+P;Meowth; 4; 92; 78
+E;Victoria
+P;Sentret; 5; 79; 77
+G;Gimnasio_Pokemon_de_Ciudad_Azalea; 4; 4
+L;Morti
+P;Gastly; 4; 186; 67
+P;Haunter; 4; 223; 107
+P;Gengar; 3; 261; 149
+E;Emma
+P;Gastly; 4; 186; 67
+P;Haunter; 4; 223; 107
+E;Marta
+P;Haunter; 4; 223; 107
+E;Greta
+P;Haunter; 4; 223; 107
+P;Haunter; 4; 223; 107
+E;Tamara
+P;Gastly; 4; 186; 67
+P;Gastly; 4; 186; 67
+P;Gastly; 4; 186; 67
+G;Gimnasio_Pokemon_de_Ciudad_Orquidea; 5; 5
+L;Anibal
+P;Primeape; 3; 207; 138
+P;Poliwrath; 2; 182; 184
+E;Dioni
+P;Primeape; 3; 207; 138
+P;Mankey; 4; 148; 82
+E;Natal
+P;Machop; 4; 137; 82
+P;Machoke; 2; 177; 125
+E;Lao
+P;Hitmonchan; 3; 193; 197
+E;Yoshi
+P;Hitmonlee; 3; 224; 181

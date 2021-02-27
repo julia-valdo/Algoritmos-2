@@ -1,0 +1,22 @@
+G;Gimnasio_Pokemon_de_Ciudad_Lavacalda; 5; 5
+L;Norman
+P;Slaking; 1; 290; 183
+P;Vigoroth; 5; 159; 159
+P;Blissey; 3; 129; 229
+P;Kangaskhan; 4; 181; 165
+P;Tauros; 4; 198; 197
+P;Spinda; 3; 116; 116
+E;Jorge
+P;Slakoth; 2; 104; 104
+E;Blas
+P;Vigoroth; 5; 159; 159
+E;Mari
+P;Delcatty; 5; 132; 132
+E;Jimena
+P;Zangoose; 3; 222; 124
+E;Alexia
+P;Wigglytuff; 3; 156; 90
+E;Pascual
+P;Spinda; 3; 116; 116
+E;Antonio
+P;Swellow; 3; 185; 130 

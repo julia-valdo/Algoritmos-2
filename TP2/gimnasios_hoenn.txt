@@ -1,0 +1,104 @@
+G;Gimnasio_Pokemon_de_Ciudad_Ferrica; 1; 1
+L;Petra
+P;Geodude; 2; 132; 132
+P;Nosepass; 2; 82; 236
+P;Golem; 2; 211; 198
+P;Kabuto; 4; 148; 162
+P;Onix; 4; 85; 232
+P;Omanyte; 3; 155; 174
+E;Gregoria
+P;Geodude; 2; 132; 132
+E;Tomi
+P;Geodude; 2; 132; 132
+E;Jose
+P;Geodude; 2; 132; 132
+P;Geodude; 2; 132; 132
+E;Marc
+P;Geodude; 2; 132; 132
+G;Gimnasio_Pokemon_de_Ciudad_Azuliza; 2; 2
+L;Marcial
+P;Hitmonlee; 3; 224; 181
+P;Hitmonchan; 3; 193; 197
+P;Machamp; 2; 234; 159
+P;Medicham; 5; 121; 152
+P;Hitmontop; 3; 173; 214
+P;Hariyama; 2; 209; 114
+E;Kabuto
+P;Makuhita; 3; 99; 54
+E;Cesarina
+P;Meditite; 2; 78; 107
+E;Takao
+P;Machamp; 2; 234; 159
+E;Brenden
+P;Machamp; 2; 234; 159
+E;Lilita
+P;Meditite; 2; 78; 107
+E;Laura
+P;Meditite; 2; 78; 107
+E;Tesa
+P;Meditite; 2; 78; 107
+P;Machop; 4; 137; 82
+G;Gimnasio_Pokemon_de_Ciudad_Malvalona; 3; 3
+L;Erico
+P;Electabuzz; 4; 198; 173
+P;Raichu; 3; 193; 151
+P;Ampharos; 3; 211; 169
+P;Electrode; 5; 173; 173
+P;Magneton; 3; 223; 169
+P;Manectric; 5; 215; 127
+E;Isma
+P;Voltrob; 5; 109; 111
+P;Magnemite; 4; 165; 121
+E;Antulo
+P;Illumise; 4; 143; 171
+P;Volbeat; 4; 143; 171
+E;Brenden
+P;Zigzagoon; 4; 58; 80
+P;Gulpin; 2; 80; 99
+E;Alegro
+P;Electrike; 5; 123; 78
+P;Voltrob; 5; 109; 111
+E;Viviana
+P;Meditite; 2; 78; 107
+G;Gimnasio_Pokemon_de_Ciudad_Lavacalda; 4; 4
+L;Candela
+P;Slugma; 2; 118; 71
+P;Numel; 3; 119; 82
+P;Torkoal; 2; 151; 324
+P;Magcargo; 1; 139; 209
+P;Rapidash; 5; 207; 162
+P;Camerupt; 3; 194; 139
+E;Andi
+P;Numel; 3; 119; 82
+E;Gerardo
+P;Slugma; 2; 118; 71
+E;Genaro
+P;Koffing; 3; 119; 141
+E;Espe
+P;Meditite; 2; 78; 107
+E;Alejo
+P;Slugma; 2; 118; 71
+E;Setsu
+P;Koffing; 3; 119; 141
+G;Gimnasio_Pokemon_de_Ciudad_Lavacalda; 5; 5
+L;Norman
+P;Slaking; 1; 290; 183
+P;Vigoroth; 5; 159; 159
+P;Blissey; 3; 129; 229
+P;Kangaskhan; 4; 181; 165
+P;Tauros; 4; 198; 197
+P;Spinda; 3; 116; 116
+E;Jorge
+P;Slakoth; 2; 104; 104
+E;Blas
+P;Vigoroth; 5; 159; 159
+E;Mari
+P;Delcatty; 5; 132; 132
+E;Jimena
+P;Zangoose; 3; 222; 124
+E;Alexia
+P;Wigglytuff; 3; 156; 90
+E;Pascual
+P;Spinda; 3; 116; 116
+E;Antonio
+P;Swellow; 3; 185; 130 

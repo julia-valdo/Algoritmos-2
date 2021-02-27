@@ -1,0 +1,124 @@
+G;Gimnasio_Pokemon_de_Ciudad_Plateada; 1; 1
+L;Brock
+P;Golem; 2; 211; 198
+P;Kabutops; 5; 220; 203
+P;Relicanth; 3; 162; 234
+P;Onix; 4; 85; 232
+P;Omastar; 3; 207; 227
+E;Belino
+P;Golem; 2; 211; 198
+E;Jordan
+P;Rhydon; 2; 222; 171
+P;Sandslash; 3; 182; 175
+E;Angelito
+P;Geodude; 2; 132; 132
+P;Sandshrew; 4; 126; 120
+G;Gimnasio_Pokemon_de_Ciudad_Celeste; 2; 2
+L;Misty
+P;Starmie; 5; 210; 184
+P;Milotic; 4; 192; 242
+P;Quagsire; 2; 152; 152
+P;Floatzel; 4; 221; 114
+P;Lanturn; 3; 146; 146
+P;Lapras; 3; 165; 180
+E;Betty
+P;Seaking; 4; 175; 147
+E;Lourdes
+P;Cloyster; 2; 186; 256
+E;Dimas
+P;Azumarill; 3; 95; 152
+E;Diana
+P;Goldeen; 4; 123; 110
+P;Golduck; 3; 191; 162 
+E;Pascual
+P;Horsea; 4; 129; 103
+P;Seadra; 3; 187; 156
+E;Luis
+P;Shellder; 3; 116; 134
+P;Horsea; 4; 129; 103
+G;Gimnasio_Pokemon_de_Ciudad_Azulona; 3; 3
+L;Erika
+P;Shiftry; 4; 200; 121
+P;Tangrowth; 2; 207; 184
+P;Victreebel; 1; 207; 135
+P;Roserade; 4; 243; 185
+P;Bellossom; 4; 169; 186
+P;Jumpluff; 5; 118; 178
+E;Danae
+P;Paras; 5; 121; 99
+P;Parasect; 3; 165; 146
+P;Carnivine; 3; 187; 136
+E;Tania
+P;Exeggutor; 3; 233; 149
+E;Chelo
+P;Skiploom; 5; 91; 127
+P;Hoppip; 5; 67; 101
+P;Jumpluff; 5; 118; 178
+E;Lisa
+P;Oddish; 5; 131; 112
+P;Gloom; 4; 153; 136
+E;Mari
+P;Bellsprout; 2; 139; 61
+P;Oddish; 5; 131; 112
+P;Weepinbell; 2; 172; 92
+P;Gloom; 4; 153; 136
+P;Ivysaur; 2; 151; 143
+E;Daniela
+P;Paras; 5; 121; 99
+P;Exeggcute; 3; 107; 125
+P;Parasect; 3; 165; 146
+G;Gimnasio_Pokemon_de_Ciudad_Fucsia; 4; 4
+L;Koga
+P;Koffing; 2; 174; 197
+P;Weezing; 2; 174; 197
+P;Crobat; 5; 194; 178
+P;Ariados; 4; 161; 128
+P;Venomoth; 3; 179; 143
+P;Toxicroak; 4; 211; 133
+E;Alicia
+P;Gloom; 4; 153; 136
+P;Vileplume; 2; 202; 167
+P;Arbok; 4; 167; 153
+E;Benito
+P;Nidoking; 3; 204; 156
+E;Cindy
+P;Nidoqueen; 3; 180; 173
+E;Linda
+P;Bulbasaur; 3; 118; 111
+P;Ivysaur; 2; 151; 143
+P;Venusaur; 2; 198; 189
+E;Isma
+P;Drowzee; 2; 89; 136
+P;Hypno; 3; 144; 193
+E;Pedro
+P;Sandslash; 3; 182; 175
+P;Arbok; 4; 167; 153
+E;Angel
+P;Drowzee; 2; 89; 136
+P;Kadabra; 4; 232; 117
+G;Gimnasio_Pokemon_de_Ciudad_Azafran; 5; 5
+L;Sabrina
+P;Alakazam; 4; 271; 167
+P;Gallade; 4; 237; 195
+P;Jynx; 3; 223; 182
+P;Espeon; 3; 261; 194
+P;Wobbuffet; 2; 60; 106
+P;Venomoth; 3; 179; 143
+E;Dora
+P;Slowpoke; 1; 109; 98
+P;Slowbro; 1; 177; 180
+E;Ernesto
+P;Exeggcute; 3; 107; 125
+E;Febo
+P;Kadabra; 4; 232; 117
+P;Girafarig; 4; 182; 133
+E;Ruth
+P;Bronzor; 3; 43; 154
+P;Hypno; 3; 144; 193
+E;Patricio
+P;Slowbro; 1; 177; 180
+E;Narcisa
+P;Haunter; 4; 223; 107
+E;Daniela
+P;Gastly; 4; 186; 67
+P;Haunter; 4; 223; 107

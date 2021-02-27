@@ -1,0 +1,17 @@
+G;Gimnasio_Pokemon_de_Ciudad_Ferrica; 1; 1
+L;Petra
+P;Geodude; 2; 132; 132
+P;Nosepass; 2; 82; 236
+P;Golem; 2; 211; 198
+P;Kabuto; 4; 148; 162
+P;Onix; 4; 85; 232
+P;Omanyte; 3; 155; 174
+E;Gregoria
+P;Geodude; 2; 132; 132
+E;Tomi
+P;Geodude; 2; 132; 132
+E;Jose
+P;Geodude; 2; 132; 132
+P;Geodude; 2; 132; 132
+E;Marc
+P;Geodude; 2; 132; 132

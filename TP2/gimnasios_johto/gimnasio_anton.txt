@@ -1,0 +1,14 @@
+G;Gimnasio_Pokemon_de_Ciudad_Azalea; 2; 2
+L;Anton
+P;Scyther; 4; 218; 170
+P;Metapod; 3; 45; 80
+P;Kakuna; 3; 46; 75
+E;Kai
+P;Paras; 5; 121; 99
+E;Tino
+P;Weedle; 3; 63; 50
+P;Beedrill; 4; 169; 130
+P;Kakuna; 3; 46; 75
+E;Suso
+P;Caterpie; 3; 55; 55
+P;Weedle; 3; 63; 50

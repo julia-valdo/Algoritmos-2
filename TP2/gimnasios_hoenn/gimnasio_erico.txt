@@ -1,0 +1,22 @@
+G;Gimnasio_Pokemon_de_Ciudad_Malvalona; 3; 3
+L;Erico
+P;Electabuzz; 4; 198; 173
+P;Raichu; 3; 193; 151
+P;Ampharos; 3; 211; 169
+P;Electrode; 5; 173; 173
+P;Magneton; 3; 223; 169
+P;Manectric; 5; 215; 127
+E;Isma
+P;Voltrob; 5; 109; 111
+P;Magnemite; 4; 165; 121
+E;Antulo
+P;Illumise; 4; 143; 171
+P;Volbeat; 4; 143; 171
+E;Brenden
+P;Zigzagoon; 4; 58; 80
+P;Gulpin; 2; 80; 99
+E;Alegro
+P;Electrike; 5; 123; 78
+P;Voltrob; 5; 109; 111
+E;Viviana
+P;Meditite; 2; 78; 107

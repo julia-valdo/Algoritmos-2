@@ -1,0 +1,20 @@
+G;Gimnasio_Pokemon_de_Ciudad_Lavacalda; 4; 4
+L;Candela
+P;Slugma; 2; 118; 71
+P;Numel; 3; 119; 82
+P;Torkoal; 2; 151; 324
+P;Magcargo; 1; 139; 209
+P;Rapidash; 5; 207; 162
+P;Camerupt; 3; 194; 139
+E;Andi
+P;Numel; 3; 119; 82
+E;Gerardo
+P;Slugma; 2; 118; 71
+E;Genaro
+P;Koffing; 3; 119; 141
+E;Espe
+P;Meditite; 2; 78; 107
+E;Alejo
+P;Slugma; 2; 118; 71
+E;Setsu
+P;Koffing; 3; 119; 141

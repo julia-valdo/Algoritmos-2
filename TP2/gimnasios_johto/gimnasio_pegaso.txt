@@ -1,0 +1,8 @@
+G;Gimnasio_Pokemon_de_Ciudad_Malva; 1; 1
+L;Pegaso
+P;Pidgey; 5; 85; 73
+P;Pidgeotto; 4; 117; 105
+E;Rony
+P;Pidgey; 5; 85; 73
+E;Abel
+P;Spearow; 5; 112; 60

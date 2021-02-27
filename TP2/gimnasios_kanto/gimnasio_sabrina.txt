@@ -1,0 +1,26 @@
+G;Gimnasio_Pokemon_de_Ciudad_Azafran; 5; 5
+L;Sabrina
+P;Alakazam; 4; 271; 167
+P;Gallade; 4; 237; 195
+P;Jynx; 3; 223; 182
+P;Espeon; 3; 261; 194
+P;Wobbuffet; 2; 60; 106
+P;Venomoth; 3; 179; 143
+E;Dora
+P;Slowpoke; 1; 109; 98
+P;Slowbro; 1; 177; 180
+E;Ernesto
+P;Exeggcute; 3; 107; 125
+E;Febo
+P;Kadabra; 4; 232; 117
+P;Girafarig; 4; 182; 133
+E;Ruth
+P;Bronzor; 3; 43; 154
+P;Hypno; 3; 144; 193
+E;Patricio
+P;Slowbro; 1; 177; 180
+E;Narcisa
+P;Haunter; 4; 223; 107
+E;Daniela
+P;Gastly; 4; 186; 67
+P;Haunter; 4; 223; 107

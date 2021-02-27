@@ -1,0 +1,17 @@
+G;Gimnasio_Pokemon_de_Ciudad_Azalea; 4; 4
+L;Morti
+P;Gastly; 4; 186; 67
+P;Haunter; 4; 223; 107
+P;Gengar; 3; 261; 149
+E;Emma
+P;Gastly; 4; 186; 67
+P;Haunter; 4; 223; 107
+E;Marta
+P;Haunter; 4; 223; 107
+E;Greta
+P;Haunter; 4; 223; 107
+P;Haunter; 4; 223; 107
+E;Tamara
+P;Gastly; 4; 186; 67
+P;Gastly; 4; 186; 67
+P;Gastly; 4; 186; 67

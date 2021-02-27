@@ -1,0 +1,2 @@
+Slowking;30;79;rosa
+Kingler;75;60;rojo

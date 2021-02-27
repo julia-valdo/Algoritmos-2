@@ -1,0 +1,31 @@
+G;Gimnasio_Pokemon_de_Ciudad_Azulona; 3; 3
+L;Erika
+P;Shiftry; 4; 200; 121
+P;Tangrowth; 2; 207; 184
+P;Victreebel; 1; 207; 135
+P;Roserade; 4; 243; 185
+P;Bellossom; 4; 169; 186
+P;Jumpluff; 5; 118; 178
+E;Danae
+P;Paras; 5; 121; 99
+P;Parasect; 3; 165; 146
+P;Carnivine; 3; 187; 136
+E;Tania
+P;Exeggutor; 3; 233; 149
+E;Chelo
+P;Skiploom; 5; 91; 127
+P;Hoppip; 5; 67; 101
+P;Jumpluff; 5; 118; 178
+E;Lisa
+P;Oddish; 5; 131; 112
+P;Gloom; 4; 153; 136
+E;Mari
+P;Bellsprout; 2; 139; 61
+P;Oddish; 5; 131; 112
+P;Weepinbell; 2; 172; 92
+P;Gloom; 4; 153; 136
+P;Ivysaur; 2; 151; 143
+E;Daniela
+P;Paras; 5; 121; 99
+P;Exeggcute; 3; 107; 125
+P;Parasect; 3; 165; 146

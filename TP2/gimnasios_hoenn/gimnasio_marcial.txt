@@ -1,0 +1,23 @@
+G;Gimnasio_Pokemon_de_Ciudad_Azuliza; 2; 2
+L;Marcial
+P;Hitmonlee; 3; 224; 181
+P;Hitmonchan; 3; 193; 197
+P;Machamp; 2; 234; 159
+P;Medicham; 5; 121; 152
+P;Hitmontop; 3; 173; 214
+P;Hariyama; 2; 209; 114
+E;Kabuto
+P;Makuhita; 3; 99; 54
+E;Cesarina
+P;Meditite; 2; 78; 107
+E;Takao
+P;Machamp; 2; 234; 159
+E;Brenden
+P;Machamp; 2; 234; 159
+E;Lilita
+P;Meditite; 2; 78; 107
+E;Laura
+P;Meditite; 2; 78; 107
+E;Tesa
+P;Meditite; 2; 78; 107
+P;Machop; 4; 137; 82

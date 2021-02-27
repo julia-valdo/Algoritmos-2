@@ -1,0 +1,12 @@
+G;Gimnasio_Pokemon_de_Ciudad_Azalea; 3; 5
+L;Blanca
+P;Clefairy; 5; 107; 108
+P;Miltank; 3; 158; 211
+E;Paloma
+P;Jigglypuff; 5; 80; 41
+E;Adela
+P;Snubbull; 3; 137; 89
+E;Samanta
+P;Meowth; 4; 92; 78
+E;Victoria
+P;Sentret; 5; 79; 77

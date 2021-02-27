@@ -1,0 +1,23 @@
+G;Gimnasio_Pokemon_de_Ciudad_Celeste; 2; 2
+L;Misty
+P;Starmie; 5; 210; 184
+P;Milotic; 4; 192; 242
+P;Quagsire; 2; 152; 152
+P;Floatzel; 4; 221; 114
+P;Lanturn; 3; 146; 146
+P;Lapras; 3; 165; 180
+E;Betty
+P;Seaking; 4; 175; 147
+E;Lourdes
+P;Cloyster; 2; 186; 256
+E;Dimas
+P;Azumarill; 3; 95; 152
+E;Diana
+P;Goldeen; 4; 123; 110
+P;Golduck; 3; 191; 162 
+E;Pascual
+P;Horsea; 4; 129; 103
+P;Seadra; 3; 187; 156
+E;Luis
+P;Shellder; 3; 116; 134
+P;Horsea; 4; 129; 103
